@@ -1,0 +1,63 @@
+{
+  "name": "edu-parent-school-communication-agent",
+  "version": "1.0.0",
+  "description": "Multi-step education operations assistant for Parent School Communication Agent.",
+  "author": {
+    "name": "广州金励泽科技服务有限公司",
+    "email": "270911570+yangsongbaofu-dot@users.noreply.github.com"
+  },
+  "agents": [
+    "./agents/edu-parent-school-communication-agent.md"
+  ],
+  "expertType": "agent",
+  "agentName": "edu-parent-school-communication-agent",
+  "displayName": {
+    "en": "Parent School Communication Agent",
+    "zh": "家校沟通协同"
+  },
+  "profession": {
+    "en": "Parent School Communication Agent",
+    "zh": ""
+  },
+  "displayDescription": {
+    "en": "A multi-step education agent for Parent School Communication Agent, producing reviewable plans with human checkpoints.",
+    "zh": "提供家校沟通协同专业协作，完成多步骤分析、方案设计与复盘，输出可执行成果并保留人工确认。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "15-Education",
+  "defaultInitPrompt": {
+    "en": "Help me complete Parent School Communication Agent.",
+    "zh": "请帮我完成一次家校沟通协同"
+  },
+  "plugin": "edu-parent-school-communication-agent",
+  "tags": [
+    {
+      "en": "Parent Communication",
+      "zh": "家校沟通"
+    },
+    {
+      "en": "Family Services",
+      "zh": "家长服务"
+    },
+    {
+      "en": "Education",
+      "zh": "教培机构"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "en": "Help me complete Parent School Communication Agent.",
+      "zh": "请帮我完成一次家校沟通协同"
+    },
+    {
+      "en": "Diagnose my supplied education-business information and propose next steps.",
+      "zh": "请诊断我提供的业务资料并给出下一步行动"
+    },
+    {
+      "en": "Generate 沟通优先级、责任人、渠道、关键信息、时间表、升级节点和记录摘要 with risks and open questions.",
+      "zh": "请生成沟通优先级、责任人、渠道、关键信息、时间表、升级节点和记录摘要，并列出风险与待确认事项"
+    }
+  ],
+  "homepage": "https://github.com/jinlize-tech/edu-parent-school-communication-agent",
+  "license": "Apache-2.0"
+}

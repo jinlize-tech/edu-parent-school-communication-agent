@@ -1,0 +1,24 @@
+{
+  "number": 66,
+  "product_id": "JLZ-EDU-AG-013",
+  "chinese_name": "家校沟通协同",
+  "english_name": "Parent School Communication Agent",
+  "repository_name": "edu-parent-school-communication-agent",
+  "product_type": "Agent",
+  "category": "05 家校服务中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-parent-school-communication-agent-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "学生情况、家长历史沟通、近期事件、教师/班主任角色和下一步目标",
+  "main_output": "沟通优先级、责任人、渠道、关键信息、时间表、升级节点和记录摘要",
+  "package_entries": [
+    "edu-parent-school-communication-agent/.codebuddy-plugin/plugin.json",
+    "edu-parent-school-communication-agent/agents/edu-parent-school-communication-agent.md",
+    "edu-parent-school-communication-agent/avatars/expert.png",
+    "edu-parent-school-communication-agent/README.md"
+  ]
+}
