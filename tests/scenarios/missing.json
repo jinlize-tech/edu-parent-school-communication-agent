@@ -1,0 +1,8 @@
+{
+  "inputs": {
+    "学生情况": "已提供并确认：学生情况"
+  },
+  "data_status": "confirmed",
+  "conflicts": [],
+  "contains_sensitive_data": false
+}
