@@ -6,7 +6,7 @@ displayName:
   zh: '家校沟通协同'
 profession:
   en: 'Parent School Communication Agent'
-  zh: ''
+  zh: '家校沟通协同专家'
 maxTurns: 50
 ---
 
