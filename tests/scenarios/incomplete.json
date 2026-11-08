@@ -1,0 +1,11 @@
+{
+  "scenario_name": "incomplete",
+  "business_context": "用户在家校沟通协同任务开始阶段只提供了少量资料。",
+  "inputs": {
+    "学生情况": "标准合成场景｜30名脱敏学生编号S001-S030（合成名单）",
+    "家长历史沟通": "标准合成场景｜A街道小学3-6年级家庭与社区家长（合成对象）"
+  },
+  "data_status": "confirmed",
+  "conflicts": [],
+  "contains_sensitive_data": false
+}
